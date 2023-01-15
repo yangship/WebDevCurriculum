@@ -126,6 +126,11 @@ input {
     text-align: center;
 }
 
+.w2 div p {
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
 
 table {
     width: 100%;
